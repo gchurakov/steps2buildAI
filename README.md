@@ -9,7 +9,7 @@ This repository contains some my HW, pet proj linked to Learning ML/DL/AI.
   
   Классификация новостей на Keras, реккурентные НС
 
-- (Реккрурентные НС)[https://github.com/gchurakov/steps2buildAI/blob/main/imdb_classification_GRU_LSTM.ipynb]
+- [Реккрурентные НС](https://github.com/gchurakov/steps2buildAI/blob/main/imdb_classification_GRU_LSTM.ipynb)
   
   Классификация отзывов на Keras
 
